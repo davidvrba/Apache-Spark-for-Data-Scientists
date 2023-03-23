@@ -2,10 +2,11 @@
 Code base for Spark training prepared and lectured by David Vrba
 
 ## Training Description:
-This training is oriented on four main areas of data analytics. The first one is interactive data analytics with the DataFrame API where we will also see how Spark is integrated with popular Python library Pandas. The second area is machine learning with native library ML Pipelines where we will take a look how to train ml models and create ml prototypes. The next topic is deep learning and Spark integration with other deep learning frameworks such as TensorFlow and Keras. And the last area is graph processing with the library GraphFrames.
+This training is oriented on three main areas of data analytics. The first one is interactive data analytics with the DataFrame API where we will also see how Spark is integrated with popular Python library Pandas. The second area is machine learning with native library ML Pipelines where we will take a look how to train ml models and create ml prototypes. And the next topic is deep learning and Spark integration with other deep learning frameworks such as TensorFlow and Keras.
 
 ## Training Format
-* 6 hours
+* 1-day if users have already some familiarity with Spark
+* 2-days if users are completely new to Spark
 * 50% theory, 50% hands on
 * Language: Python
 
@@ -20,7 +21,7 @@ This training is oriented on four main areas of data analytics. The first one is
     * Advanced features of DataFrame API
     * Integration with Pandas
 2. Lab I
-    * Analyzing data with DataFrame API
+    * Analyzing data and building report with DataFrame API
 3. Machine learning with ML Pipelines
     * Basic concepts: Transformer, Estimator, Evaluator, Pipeline
     * Training/saving/loading a model
@@ -31,9 +32,7 @@ This training is oriented on four main areas of data analytics. The first one is
 5. Deep learning
     * Integration with Tensorflow and Keras
     * Image processing
+    * Text processing
     * Transfer learning
 6. Lab III
     * Inference with DL model on large scale
-7. Graph processing with GraphFrames
-    * Basic concepts: Vertices & Edges
-    * Running Graph algoritms
