@@ -15,6 +15,7 @@ pip3 install pyarrow
 pip3 install scipy
 pip3 install Pillow
 pip3 install tensorflow
+pip3 install spark-nlp
 pip3 install jupyter
 
 wget /home/$student https://archive.apache.org/dist/spark/spark-3.3.2/spark-3.3.2-bin-hadoop3.tgz
